@@ -1,4 +1,4 @@
-# Bubble Journal
+# Bubble Journal - ES
 
 Un pequeño diario interactivo de terminal escrito en Python.
 
@@ -9,6 +9,15 @@ Abre una terminal en esta carpeta y ejecuta:
 ```text
 python journal.py
 ```
+# Bubble Journal - EN
 
-Bubble Journal is a small, interactive terminal journal written in Python.
-Open a terminal in this folder and run `python journal.py`.
+A small, interactive terminal journal written in Python.
+
+## How to run it
+Open a terminal in this folder and run:
+
+```text
+python journal.py
+```
+
+
