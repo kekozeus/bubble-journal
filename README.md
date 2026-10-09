@@ -1,6 +1,6 @@
-# Mi journal en Python
+# Bubble Journal
 
-Un pequeño journal de terminal para practicar los fundamentos de Python.
+Un pequeño diario interactivo de terminal escrito en Python.
 
 ## Cómo ejecutarlo
 
@@ -10,5 +10,5 @@ Abre una terminal en esta carpeta y ejecuta:
 python journal.py
 ```
 
-# El programa crea `entries.json` automáticamente cuando guardas tu primera entry.
-
+Bubble Journal is a small, interactive terminal journal written in Python.
+Open a terminal in this folder and run `python journal.py`.
